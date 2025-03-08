@@ -4,4 +4,3 @@ scikit-learn
 gdown
 streamlit
 pandas
-gunicorn
