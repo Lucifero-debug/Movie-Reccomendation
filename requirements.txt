@@ -1,6 +1,6 @@
 flask
 numpy
 scikit-learn
-gunicorn
 gdown
 streamlit
+pandas
